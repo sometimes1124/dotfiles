@@ -200,3 +200,5 @@ if [ -f ~/.zsh/auto-fu.zsh ]; then
 	   _approximate _list _history _expand
     zstyle ':auto-fu:var' postdisplay $''
 fi
+
+. /home/nas12/kairo/sora/.homebrew/lib/python2.7/site-packages/powerline/bindings/zsh/powerline.zsh
