@@ -200,3 +200,4 @@ if [ -f ~/.zsh/auto-fu.zsh ]; then
 	   _approximate _list _history _expand
     zstyle ':auto-fu:var' postdisplay $''
 fi
+
